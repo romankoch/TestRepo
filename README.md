@@ -2,6 +2,7 @@ TestRepo
 
 This is the README of my first Git-Project
 Have double fun
+lokal
 
 ========
 read loud and clear
