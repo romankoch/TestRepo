@@ -1,7 +1,7 @@
 TestRepo
 
 This is the README of my first Git-Project
-Have fun
+Have double fun
 
 ========
 read loud and clear
